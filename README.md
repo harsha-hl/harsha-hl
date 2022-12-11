@@ -21,15 +21,16 @@ My name is Harsha HL and I'm an aspiring software developer. I'm from India, liv
 <a href="https://github.com/harsha-hl/harsha-hl">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=harsha-hl&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=cccccc&icon_color=80e27e&bg_color=000000" alt="Harsha's GitHub Stats" />
 </a>
-<a href="https://github.com/harsha-hl/CS50_Final_Project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harsha-hl&repo=CS50_Final_Project&title_color=ffffff&text_color=cccccc&icon_color=80e27e&bg_color=000000" />
+
+<a href="https://github.com/harsha-hl/Knowledge-Graph">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harsha-hl&repo=Knowledge-Graph&title_color=ffffff&text_color=cccccc&icon_color=80e27e&bg_color=000000" />
 </a>
 <a href="https://github.com/harsha-hl/Huffman_Coding">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harsha-hl&repo=Huffman_Coding&title_color=ffffff&text_color=cccccc&icon_color=80e27e&bg_color=000000" />
 </a> 
+<a href="https://github.com/harsha-hl/CS50_Final_Project">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harsha-hl&repo=CS50_Final_Project&title_color=ffffff&text_color=cccccc&icon_color=80e27e&bg_color=000000" />
+</a>
 <a href="https://github.com/harsha-hl/Blockchain-Hackathon">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harsha-hl&repo=Blockchain-Hackathon&title_color=ffffff&text_color=cccccc&icon_color=80e27e&bg_color=000000" />
 </a> 
-<a href="https://github.com/harsha-hl/HPCC-Hackathon">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harsha-hl&repo=HPCC-Hackathon&title_color=ffffff&text_color=cccccc&icon_color=80e27e&bg_color=000000" />
-</a>
